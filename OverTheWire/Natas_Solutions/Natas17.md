@@ -18,3 +18,4 @@ In this situation, we can not see anything for text, so we should judge true or 
 When we submit natas18" and sleep(10) and substring(~~~) , if this expression is true, the result screen is indicated after 10 seconds.
 
 ## Method of solve
+Blind SQL Injection
