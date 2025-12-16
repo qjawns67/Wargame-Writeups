@@ -43,4 +43,5 @@ print("End")
 I added a hex encoding function, So i got a answer number, 281, finally i got a password for natas20.  
 
 ## Method of solve
-Session Hijacking, Finding Encoding Pattern
+Session Hijacking  
+Finding Encoding Pattern
