@@ -7,7 +7,7 @@ leviathan0
 ## Write-Up
 <img width="824" height="26" alt="image" src="https://github.com/user-attachments/assets/7e7a624a-fd12-44b1-8d15-e8589cd0ff5e" />
 
-The problem of leviathan is not given to us intentionally.  
+The problem information of leviathan is not given to us intentionally.  
 We just find the vulnerability for being in the home directory.  
 <img width="543" height="138" alt="image" src="https://github.com/user-attachments/assets/ccf1fa05-9d3d-4d74-b0df-aa600a948b79" />
 
