@@ -66,10 +66,10 @@ POST /?host=8.8.8.8&port=80&data=Hi HTTP/1.1
 Host:host3.dreamhack.games:16721
 ```
 
-There is a service of Raw Socket Sender
+There is a service of Raw Socket Sender  
 
 ## Vulnerability
-SSRF(Server-Side Request Forgery): There is no check process for HTTP Request
+SSRF(Server-Side Request Forgery): There is no check process for HTTP Request  
 Raw Socket can handle Header like User-Agent, Cookie, we use this character
 
 ## Exploit
@@ -84,4 +84,4 @@ Content-Length: 12
 
 userid=admin
 ```
-We should use that /admin page. 
+We should use that /admin page.   
