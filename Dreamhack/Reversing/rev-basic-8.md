@@ -62,3 +62,5 @@ for i in range(31):
     final.append(ROR(i ^ data[i], i & 7))
     print(chr(ROR(i ^ data[i], i & 7)),end='')
 ```
+
+we can rotate simple because all the values are 1 byte.
